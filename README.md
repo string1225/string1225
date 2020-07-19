@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome 👋
+
+I'm a String. :P
+
+You could find some interesting projects here to make the life better. 😄
+
 
 <!--
 **string1225/string1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
