@@ -2,7 +2,7 @@
 
 Please feel free to find some interesting projects here to make the life better. 😄
 
-Perferred tech: Docker, Node.js
+Perferred tech: Docker, Node.js, Python3
 
 <!--
 **string1225/string1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
