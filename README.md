@@ -1,6 +1,8 @@
 ### Welcome 👋
 
-Please feel free to find some interesting projects here to make the life better. 😄
+Please feel free to find some interesting projects here to make the life better. 
+
+And you are warmly welcome to contact me for more interesting things.😄
 
 Perferred tech: Docker, Node.js, Python3
 
